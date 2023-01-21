@@ -1,0 +1,7 @@
+G:\Dot.net\New folder\StudentManagementapi\obj\Debug\net7.0\StudentManagementapi.csproj.AssemblyReference.cache
+G:\Dot.net\New folder\StudentManagementapi\obj\Debug\net7.0\StudentManagementapi.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dot.net\New folder\StudentManagementapi\obj\Debug\net7.0\StudentManagementapi.AssemblyInfoInputs.cache
+G:\Dot.net\New folder\StudentManagementapi\obj\Debug\net7.0\StudentManagementapi.AssemblyInfo.cs
+G:\Dot.net\New folder\StudentManagementapi\obj\Debug\net7.0\StudentManagementapi.csproj.CoreCompileInputs.cache
+G:\Dot.net\New folder\StudentManagementapi\obj\Debug\net7.0\StudentManagementapi.MvcApplicationPartsAssemblyInfo.cs
+G:\Dot.net\New folder\StudentManagementapi\obj\Debug\net7.0\StudentManagementapi.MvcApplicationPartsAssemblyInfo.cache
